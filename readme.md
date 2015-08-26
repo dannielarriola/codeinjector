@@ -1,0 +1,1 @@
+PLUGIN PARA CHROME- inyecta codigo a cualquier pagina
