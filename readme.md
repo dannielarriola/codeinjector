@@ -1,1 +1,4 @@
-PLUGIN PARA CHROME- inyecta codigo a cualquier pagina
+Codeinjector
+==============
+
+Plugin para chrome: Permite inyectar codigo al final de cualquier pagina
