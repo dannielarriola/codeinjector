@@ -1,5 +1,5 @@
 {   "description": "inyecta js a cualquier pagina",
-    "homepage_url": "http://danielarriola.com",
+    "homepage_url": "https://dannielarriola.github.io",
     "content_scripts": [{
       "all_frames": true,
       "js": [ "codeinjector.js" ],
